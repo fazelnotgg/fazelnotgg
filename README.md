@@ -133,15 +133,15 @@ const zulfazli = {
 
 <div align="center">
 
-<a href="mailto:xxxxxx@gmail.com">
+<a href="mailto:zulfazlilsmgmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://wa.me/xxxxxx">
+<a href="https://wa.me/089519297836">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://discord.com/users/xxxxx">
+<a href="https://discord.com/users/1334178438332027030">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
