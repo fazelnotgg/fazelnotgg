@@ -13,7 +13,7 @@
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=fazelnotgg&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/zulfazli?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/fazelnotgg?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
 
 </div>
 
@@ -45,7 +45,7 @@ const zulfazli = {
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,sass,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,figma&theme=dark" />
 </p>
 
 ### ⚙️ Backend
@@ -60,7 +60,7 @@ const zulfazli = {
 
 ### 🔧 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman,vercel,cloudflare&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel,cloudflare&theme=dark" />
 </p>
 
 ---
@@ -83,8 +83,15 @@ const zulfazli = {
 
 ## 🏆 GitHub Achievements
 
+<!--
+  Trophy card only shows trophies you have actually earned.
+  If this section appears empty, it means no trophies yet.
+  Trophies unlock via commits, PRs, stars, followers, etc.
+  Delete this section anytime if you prefer not to show it.
+-->
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fazelnotgg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fazelnotgg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
@@ -93,6 +100,38 @@ const zulfazli = {
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fazelnotgg&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=2d1b69" />
+</div>
+
+---
+
+## ⚡ Quick Stats
+
+<div align="center">
+
+| 🎯 Focus | 💡 Interests | 🌱 Currently Learning |
+|:---:|:---:|:---:|
+| Full-Stack Development | Web & App Architecture | Advanced TypeScript |
+| Discord Bot Engineering | UI/UX Design | Cloud Deployment |
+| API & Backend Systems | Open Source | System Design |
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<!--
+  SETUP REQUIRED: Run the "Generate Snake Animation" GitHub Action first.
+  Go to Actions tab → Generate Snake Animation → Run workflow
+  After it completes, the snake will appear automatically below.
+-->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazelnotgg/fazelnotgg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fazelnotgg/fazelnotgg/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fazelnotgg/fazelnotgg/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
@@ -119,14 +158,9 @@ const zulfazli = {
 
 <div align="center">
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zulfazli/zulfazli/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zulfazli/zulfazli/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zulfazli/zulfazli/output/github-contribution-grid-snake.svg" />
-</picture>
+<i>⭐ If you find my work interesting, feel free to explore my repos and leave a star!</i>
 
-<br/>
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
