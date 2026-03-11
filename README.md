@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zulfazli&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Bot%20Engineer%20%7C%20App%20Builder&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:3d0000,100:1a0000&height=200&section=header&text=Zulfazli&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Bot%20Engineer%20%7C%20App%20Builder&descSize=18&descAlignY=60&descColor=ff4500&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+line+at+a+time+%F0%9F%9A%80;Full-Stack+Web+%26+App+Developer+%F0%9F%92%BB;Discord+Bot+Engineer+%F0%9F%A4%96;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+line+at+a+time+%F0%9F%9A%80;Full-Stack+Web+%26+App+Developer+%F0%9F%92%BB;Discord+Bot+Engineer+%F0%9F%A4%96;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=fazelnotgg&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=fazelnotgg&style=for-the-badge&color=ff4500&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/fazelnotgg?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/fazelnotgg?style=for-the-badge&color=ff4500&labelColor=1a0000&label=FOLLOWERS" />
 
 </div>
 
@@ -69,13 +69,13 @@ const zulfazli = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fazelnotgg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fazelnotgg&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e96&currStreakLabel=a78bfa" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fazelnotgg&show_icons=true&theme=dark&hide_border=true&bg_color=0d0000&title_color=ff4500&icon_color=ff6a00&text_color=ffccbc&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fazelnotgg&theme=dark&hide_border=true&background=0d0000&stroke=ff4500&ring=ff4500&fire=ff6a00&currStreakLabel=ff4500&sideLabels=ffccbc&dates=ffccbc&sideNums=ffffff" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazelnotgg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazelnotgg&theme=tokyonight&utcOffset=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazelnotgg&layout=compact&theme=dark&hide_border=true&bg_color=0d0000&title_color=ff4500&text_color=ffccbc&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazelnotgg&theme=dracula&utcOffset=8" />
 
 </div>
 
@@ -86,12 +86,11 @@ const zulfazli = {
 <!--
   Trophy card only shows trophies you have actually earned.
   If this section appears empty, it means no trophies yet.
-  Trophies unlock via commits, PRs, stars, followers, etc.
   Delete this section anytime if you prefer not to show it.
 -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fazelnotgg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fazelnotgg&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
@@ -99,7 +98,7 @@ const zulfazli = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fazelnotgg&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=2d1b69" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fazelnotgg&bg_color=0d0000&color=ff4500&line=ff6a00&point=ffffff&area=true&hide_border=true&area_color=3d0000" />
 </div>
 
 ---
@@ -120,12 +119,6 @@ const zulfazli = {
 
 ## 🐍 Contribution Snake
 
-<!--
-  SETUP REQUIRED: Run the "Generate Snake Animation" GitHub Action first.
-  Go to Actions tab → Generate Snake Animation → Run workflow
-  After it completes, the snake will appear automatically below.
--->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazelnotgg/fazelnotgg/output/github-contribution-grid-snake-dark.svg" />
@@ -141,15 +134,15 @@ const zulfazli = {
 <div align="center">
 
 <a href="mailto:xxxxxx@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-xxxxxx%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://wa.me/xxxxxx">
-  <img src="https://img.shields.io/badge/WhatsApp-xxxxxx-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://discord.com/users/xxxxx">
-  <img src="https://img.shields.io/badge/Discord-xxxxx-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </div>
@@ -162,6 +155,6 @@ const zulfazli = {
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:3d0000,100:1a0000&height=120&section=footer&animation=fadeIn"/>
 
 </div>
