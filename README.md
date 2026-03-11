@@ -11,7 +11,7 @@
 <br/>
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=zulfazli&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=fazelnotgg&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/zulfazli?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
 
@@ -69,13 +69,13 @@ const zulfazli = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zulfazli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zulfazli&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e96&currStreakLabel=a78bfa" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fazelnotgg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fazelnotgg&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e96&currStreakLabel=a78bfa" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfazli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zulfazli&theme=tokyonight&utcOffset=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazelnotgg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazelnotgg&theme=tokyonight&utcOffset=8" />
 
 </div>
 
@@ -84,7 +84,7 @@ const zulfazli = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zulfazli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fazelnotgg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -92,29 +92,7 @@ const zulfazli = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zulfazli&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=2d1b69" />
-</div>
-
----
-
-## 🤖 Discord Bot Projects
-
-```
-🎮  Entertainment Bot  →  Games, memes, economy system
-🛡️  Moderation Bot    →  Auto-mod, logging, role management
-🎵  Music Bot         →  Queue system, Spotify integration
-⚙️  Utility Bot       →  Reminders, polls, server tools
-```
-
----
-
-## 📦 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zulfazli&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa)](https://github.com/zulfazli/your-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zulfazli&repo=your-project-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa)](https://github.com/zulfazli/your-project-2)
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fazelnotgg&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=2d1b69" />
 </div>
 
 ---
